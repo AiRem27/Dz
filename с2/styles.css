@@ -1,0 +1,103 @@
+h1 {
+    background: black;
+    border: 1px solid white ;
+    border-radius: 80px;
+    font-size: 30pt;
+    text-align: center;
+    color:white;
+    font-family: 'Helvetica'
+}
+
+
+.spr {
+     font-size: 24px;
+    font-weight: bold;
+    color: green;
+    text-align: center;
+    font-family: 'Helvetica'
+
+}
+.sum {
+     font-size: 24px;
+    font-weight: bold;
+    color: orange;
+    text-align: center;
+    font-family: 'Helvetica'
+}
+.fall {
+     font-size: 24px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    font-family: 'Helvetica'
+}
+.win {
+     font-size: 24px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    font-family: 'Helvetica'
+}
+
+ul {
+    font-size: 15pt;
+    font-family: 'Courier New'
+    margin-bottom: 600px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.pass {
+    padding-bottom: 75px;
+}
+.paragraph-1 {
+   font-size: 22px;
+   margin-left: 20px;
+   text-indent: 1em;
+    font-family: 'Courier New'
+}
+
+.paragraph-2 {
+    font-size: 22px;
+    margin-left: 20px;
+    text-indent: 1em;
+    font-family: 'Courier New'
+}
+
+.paragraph-3 {
+    font-size: 22px;
+    margin-left: 20px;
+   text-indent: 1em;
+    font-family: 'Courier New';
+}
+
+.paragraph-4 {
+    margin-left: 20px;
+   text-indent: 1em;
+    font-size: 22px;
+    font-family: 'Courier New';
+}
+
+
+div-1 {
+    color: green;
+    text-shadow: 1px 2px #001;
+}
+
+div-2 {
+    color: orange;
+    text-shadow: 1px 2px #001;
+}
+div-3 {
+    color: red;
+    text-shadow: 1px 2px #001;
+}
+div-4 {
+    color: blue;
+    text-shadow: 1px 2px #001;
+}
+.autore{
+font-size: 15px;
+    margin-left: 5pt;
+   text-indent: 1em;
+    font-family: 'Courier New';
+}
